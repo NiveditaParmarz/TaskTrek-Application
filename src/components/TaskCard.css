@@ -1,0 +1,78 @@
+.task_card {
+  /* width: 100%;
+  min-height: 100px;
+  border: 1px solid #dcdcdc;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px 0; */
+
+  background-color: #fceeb5; /* This makes cards stand out */
+  /* background-color: #ffe5b4; */
+  width: 100%;
+  min-height: 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px 0;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Optional shadow for better contrast */
+}
+
+.task_text {
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.task_card_bottom_line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.task_delete {
+  /* background-color: transparent; */
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+.task_card_bottom_line,
+.task_delete,
+.task_card_tags {
+  background-color: transparent !important; /* Force remove background */
+}
+
+.task_delete:hover {
+  background-color: #ebebeb;
+  background-color: rgb(255, 172, 186);
+}
+
+.delete_icon {
+  width: 20px;
+  opacity: 50%;
+  transition: all 0.3s ease-in-out;
+}
+
+.task_delete:hover .delete_icon {
+  opacity: 80%;
+}
+
+.task_delete {
+  background-color: transparent !important; /* Remove background */
+  padding: 0 !important; /* Remove extra padding */
+  border: none !important; /* Ensure no border */
+}
+
+/* Ensure the icon itself has no background */
+.delete_icon {
+  background-color: transparent !important; /* Remove background */
+  display: block; /* Avoid extra spacing */
+  padding: 0;
+  margin: 0;
+}
