@@ -43,10 +43,6 @@ The application is designed to help users **stay organized and productive** with
 - Use the **dropdown menu** to update the task status 🔄.
 - Click the **delete icon** 🗑️ to remove a task.
 
-## Screenshots 📸
-
-
-
 ## Future Enhancements 🔮
 
 🖱️ **Implement drag-and-drop functionality** for task reordering.
