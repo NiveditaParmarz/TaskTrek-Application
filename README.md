@@ -1,10 +1,10 @@
 # Task Trek 📝
 
-Overview 🌟
+##Overview 🌟
 
 Task Trek is a simple and intuitive task management web application built using React.js. It allows users to add tasks, categorize them with tags, and track their progress by updating their status (To Do, Doing, Done). The application is designed to help users stay organized and productive with a user-friendly interface and real-time updates. ✅📋
 
-Features 🚀
+##Features 🚀
 
 ✨ Add Tasks: Enter a task name and categorize it with relevant tags.
 
@@ -18,7 +18,7 @@ Features 🚀
 
 🎨 Interactive UI: A clean and minimalistic design for a seamless user experience.
 
-Tech Stack 🛠️
+##Tech Stack 🛠️
 
 💻 Frontend: React.js, JSX, HTML, CSS
 
@@ -26,9 +26,9 @@ Tech Stack 🛠️
 
 💾 Storage: Local Storage for data persistence
 
-How It Works 🔍
+##How It Works 🔍
 
-📝 Adding a Task
+###📝 Adding a Task
 
 Type the task name in the input field.
 
@@ -38,7 +38,7 @@ Choose a status (default: To Do).
 
 Click the + Add Task button ➕.
 
-📌 Managing Tasks
+###📌 Managing Tasks
 
 Tasks appear under their respective status columns.
 
@@ -48,7 +48,6 @@ Click the delete icon 🗑️ to remove a task.
 
 Screenshots 📸
 
-(Include relevant screenshots of the application UI here)
 
 Future Enhancements 🔮
 
@@ -59,5 +58,6 @@ Future Enhancements 🔮
 ☁️ Integrate a database (e.g., Firebase, MongoDB) for cloud storage.
 
 ⏳ Introduce due dates and priority levels for tasks.
+
 
 Made with ❤️ by Nivedita Parmar. 
