@@ -20,6 +20,10 @@ The application is designed to help users **stay organized and productive** with
 
 🎨 **Interactive UI**: A **clean and minimalistic design** for a seamless user experience.
 
+**Looks like this👇🏻!**
+<img width="1440" alt="Screenshot 2025-02-28 at 11 23 09 AM" src="https://github.com/user-attachments/assets/d9aad20f-629f-44f4-8dc2-190b2dc4a456" />
+
+
 ## Tech Stack 🛠️
 
 💻 **Frontend**: React.js, JSX, HTML, CSS
