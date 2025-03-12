@@ -43,6 +43,9 @@ The application is designed to help users **stay organized and productive** with
 - Tasks appear under their respective **status columns**.
 - Use the **dropdown menu** to update the task status 🔄.
 - Click the **delete icon** 🗑️ to remove a task.
+- 
+**Looks like this👇🏻!**
+<img width="1440" alt="Screenshot 2025-02-28 at 11 23 09 AM" src="https://github.com/user-attachments/assets/d9aad20f-629f-44f4-8dc2-190b2dc4a456" />
 
 ## Future Enhancements 🔮
 
